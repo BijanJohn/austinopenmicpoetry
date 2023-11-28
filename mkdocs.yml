@@ -8,8 +8,8 @@ theme:
 
 nav:
   - Open Mic List: index.md
-  - Record Collectors: record-collectors/record-collectors.md
-#  - Sunday: day-specific/sunday.md
-  - Monday: day-specific/monday.md
-  - Thursdays: day-specific/thursday.md
-  - Fridays: day-specific/friday.md
+  - Record Collectors: record-collectors.md
+#  - Sunday: sunday.md
+  - Monday: monday.md
+  - Thursdays: thursday.md
+  - Fridays: friday.md
