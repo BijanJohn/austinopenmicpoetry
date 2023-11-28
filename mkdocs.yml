@@ -7,8 +7,9 @@ theme:
     primary: green
 
 nav:
-  - Home: index.md
+  - Open Mic List: index.md
+  - Record Collectors: record-collectors/record-collectors.md
 #  - Sunday: day-specific/sunday.md
-#  - Monday: day-specific/monday.md
-#  - Thursday: day-specific/thursday.md
-#  - Friday: day-specific/friday.md
+  - Monday: day-specific/monday.md
+  - Thursdays: day-specific/thursday.md
+  - Fridays: day-specific/friday.md
