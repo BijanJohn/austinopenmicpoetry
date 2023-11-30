@@ -8,8 +8,11 @@ theme:
 
 nav:
   - Open Mic List: index.md
-  - Record Collectors: record-collectors.md
 #  - Sunday: sunday.md
-  - Monday: monday.md
+  - Mondays: monday.md
+#  - Wednesdays: wednesday.md
   - Thursdays: thursday.md
   - Fridays: friday.md
+#  - Writers League: writers-league.md
+  - Record Collectors: record-collectors.md
+#  - Poetry Archives: poetry-archives/expressions.md

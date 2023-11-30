@@ -12,6 +12,13 @@ Kick Butt Coffee<br>
 Corner of South Congress and Oltorf St.<br>
 7-10 PM<br>
 
+#### Wednesdays
+**ZOOM Poetry Open Mic**<br>
+[https://us02web.zoom.us/j/82760447343?pwd=V3VwL0Y0WVRuN21CTjd1OWYwTExXZz09](https://us02web.zoom.us/j/82760447343?pwd=V3VwL0Y0WVRuN21CTjd1OWYwTExXZz09)<br>
+Meeting ID: 827 6044 7343<br>
+Passcode: Circle<br>
+1-3 PM<br>
+
 #### Thursdays
 **LazyDaze LIVE! Prompt Writing Workshop**<br>
 [LazyDaze CBD Shop](https://www.lazydazeshop.com/south-austin)<br>
