@@ -1,8 +1,8 @@
-# John Berry
+## John Berry
 
 ![johnberry](images/poets/johnbarry.jpg)
 
-## Great is Diana<br>
+### Great is Diana<br>
 
 Austin International Poetry Festival<br>
 di-verse-city 2012 Anthology<br>
