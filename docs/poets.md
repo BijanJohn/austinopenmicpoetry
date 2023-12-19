@@ -12,3 +12,5 @@ Like softly muttering lightning far aview, Nature is beautiful, just look, you'l
 Our arts give beauties echos at their bests, Our best acknowledges the Muse midwife, above all kings, above all Kings of kings, Diana, whose milky-nippled myriad breasts feed every art as well as every life, whose ancient timeless beauty gives birth to all things.
 
 ![johnberryold](images/poets/johnberryold.jpg)
+
+![johnberryyellow](images/poets/johnberryyellow.jpg)
