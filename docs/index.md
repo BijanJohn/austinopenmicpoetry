@@ -12,6 +12,12 @@ Kick Butt Coffee<br>
 Corner of South Congress and Oltorf St.<br>
 7-10 PM<br>
 
+#### Tuesdays
+**OPA! Open Mic**<br>
+[OPA! Greek Cafe](https://opasola.com/)<br>
+2050 South Lamar<br>
+7-10 PM<br>
+
 #### Wednesdays
 **ZOOM Poetry Open Mic**<br>
 [https://us02web.zoom.us/j/82760447343?pwd=V3VwL0Y0WVRuN21CTjd1OWYwTExXZz09](https://us02web.zoom.us/j/82760447343?pwd=V3VwL0Y0WVRuN21CTjd1OWYwTExXZz09)<br>
@@ -30,10 +36,3 @@ Passcode: Circle<br>
 held at the [3rd Eye Lounge](https://3rdeyemeditationlounge.com/)<br>
 1701 Twoomey<br>
 7-10 PM<br>
-
-#### Upcoming Poetry Submission Opportunities
-**2024 ANIMAL TALES**<br>
-Anthology on the same theme of ANIMAL RESUCE<br>
-Send your 20 line (or less) on theme poem to worldpoet@rocketmail.com by January 31st 2024<br>
-Anthology to be launched Saturday, April 27th, 2024<br>
-From 2-9 PM at Tablerock Theater Royal St. Salado Texas<br>
