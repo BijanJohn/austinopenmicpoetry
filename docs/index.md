@@ -1,4 +1,4 @@
-Welcome! This site keeps track of the local Open Mic Poetry events in Austin.
+Welcome! This site keeps track of the local Open Mic Poetry events in Austin and the greater Austin/Texas area.
 
 ## Poetry Festivals!
 
