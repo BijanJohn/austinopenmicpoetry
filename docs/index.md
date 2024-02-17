@@ -56,7 +56,7 @@ held at the [3rd Eye Lounge](https://3rdeyemeditationlounge.com/)<br>
 1701 Twoomey<br>
 7-10 PM<br>
 
-## Monthly Open Mics
+## Monthly Open Mics !
 
 #### First Thursdays
 [**Wake the Dead Open Mic**](https://wakethedeadcoffeehouse.squarespace.com/events)<br>
@@ -108,7 +108,7 @@ West Pecan Coffee and Beer<br>
 Pflugerville, TX<br>
 
 
-## Poetry Groups
+## Poetry and Writing Groups !
 
 [**Austin Poetry Society**](https://www.austinpoetrysociety.org/)<br>
 
