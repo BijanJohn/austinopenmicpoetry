@@ -6,8 +6,10 @@ April is Poetry Month, come check out these Festivals!
 
 [**16th Annual TableRock Poetry Festival**](https://www.tablerock.org/index.php)<br>
 **April 27th**<br>
-2PM to 9PM<br>
-El Salado, TX<br>
+Potluck begins at noon<br>
+Featured poets from Anthology begins at 2PM<br>
+event goes on till 9PM<br>
+Salado, TX<br>
 Theme is Animal Rescue<br>
 Hosted by Thom the World Poet and Sandi Horton<br>
 Release of Animal Rescue Anthology<br>
