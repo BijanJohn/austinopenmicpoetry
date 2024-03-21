@@ -5,15 +5,12 @@ Welcome! This site keeps track of the local Open Mic Poetry events in Austin and
 April is Poetry Month, come check out these Festivals!
 
 [**16th Annual TableRock Poetry Festival**](https://www.tablerock.org/index.php)<br>
-**April 27th**<br>
-Potluck begins at noon<br>
-Featured poets from Anthology begins at 2PM<br>
-event goes on till 9PM<br>
-Salado, TX<br>
-Theme is Animal Rescue<br>
-Hosted by Thom the World Poet and Sandi Horton<br>
-Release of Animal Rescue Anthology<br>
-
+![table_rock](./images/table-rock-flyer.jpeg)
+To those defeated by distance you will receive a PDF copy of the Anthology post-Fest.<br>
+Extra physical copies can be purchased on this website, coming soon<br>
+$10 for the copy & $5 postage<br> 
+<br>
+<br>
 [**Round Top Poetry Festival**](https://poetryatroundtop.org/)<br>
 **April 19th through 21st**<br>
 
@@ -33,13 +30,12 @@ sign up starts at 6:30<br>
 Corner of South Congress and Oltorf St.<br>
 7-10 PM<br>
 
-#### Tuesdays
+#### Wednesdays
 **OPA! Open Mic**<br>
 [**OPA! Greek Cafe**](https://opasola.com/)<br>
 2050 South Lamar<br>
 7-10 PM<br>
 
-#### Wednesdays
 **ZOOM Poetry Open Mic**<br>
 [https://us02web.zoom.us/j/82760447343?pwd=V3VwL0Y0WVRuN21CTjd1OWYwTExXZz09](https://us02web.zoom.us/j/82760447343?pwd=V3VwL0Y0WVRuN21CTjd1OWYwTExXZz09)<br>
 Meeting ID: 827 6044 7343<br>
